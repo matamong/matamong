@@ -13,6 +13,6 @@ I like developments that make people's lives better in some way. :raised_hands:
 - Language
   - `Java` `Python` `JS`
   - I'm interested in all the technologies used in the service. 
-  - But I'm particularly interested in `Backend` skills.
+  - But I'm particularly interested in `Backend`, `Infra` and `AI`
 
 <br>
