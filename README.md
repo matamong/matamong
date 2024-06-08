@@ -4,7 +4,6 @@
   </div>
   
 # Hi, I'm Jeongyeon Ma as Matamong! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-어떤 식으로든 사람들의 삶을 더 좋게 만드는 개발을 좋아합니다. :raised_hands: <br> <br>
 I like developments that make people's lives better in some way. :raised_hands:
 
 <br>
@@ -12,7 +11,7 @@ I like developments that make people's lives better in some way. :raised_hands:
 # Interested in &#128064; 
 - Language
   - `Java` `Python` `JS`
-  - I'm interested in all the technologies used in the service. 
-  - But I'm particularly interested in `Backend`, `Infra` and `AI`
+  - I'm interested in all the technologies used in the service.
+  - But I'm particularly interested in `Backend` and `AI`. Looking to create an AI service that can be used in real-world applications.
 
 <br>
