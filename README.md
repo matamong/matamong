@@ -5,6 +5,7 @@
   
 # Hi, I'm Jeongyeon Ma as Matamong! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 I like developments that make people's lives better in some way. :raised_hands:
+Recently, I've become very interested in engineering AI services.
 
 <br>
 
