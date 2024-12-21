@@ -18,5 +18,6 @@ Recently, I've become very interested in engineering AI services.
 <br>
 
 # Chat with me 🤖
-If you want to know more about my career, vision, and skills, have a chat with the bot I created. <br>
-[🤖 My Chatbot](https://chat.matamong.dev/)
+~~If you want to know more about my career, vision, and skills, have a chat with the bot I created.~~ <br>
+~~[🤖 My Chatbot](https://chat.matamong.dev/)~~ <br>
+Currency exchange rates are flexing too hard, so I've put the server on a little vacation for now. 😅
